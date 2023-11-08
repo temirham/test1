@@ -51,5 +51,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "test.sln"
+    "dotnet.defaultSolution": "test.sln",
+    "terminal.integrated.sendKeybindingsToShell": true
 }
